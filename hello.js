@@ -93,7 +93,7 @@ var fx = new TextScramble(el);
 var counter = 0;
 var next = function next() {
   if (counter >= phrases.length) {
-    el.innerHTML = '<a>就这样吧，你可以选择沉默，但还是希望你能回答我。谢谢</a>';
+    el.innerHTML = '<a>惊觉相思不露，原来只因已入骨，情不知所起，一往而深。人世间有百媚千红，唯独你是我情之所钟。</a>';
     return;
   }
 
